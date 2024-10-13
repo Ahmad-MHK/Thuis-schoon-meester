@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+}
+
+.categories {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.category {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px 0; /* Add margin top and bottom for spacing */
+    width: 1100px; /* Set a fixed width for each category block */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    position: relative; /* Set position relative for the number */
+}
+
+.category h3 {
+    margin-top: 0;
+    color: #2c3e50;
+    font-size: 48px; /* Larger font size for the number */
+    line-height: 1; /* Reduce line height */
+    text-align: center; /* Center the number */
+}
+
+.category p {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+@media (max-width: 480px) {
+    .categories {
+        flex-direction: column;
+    }
+    .category {
+        margin-bottom: 10px;
+        width: 100%;
+    }
+}
