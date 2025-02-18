@@ -54,8 +54,9 @@
 <body>
     <section>
         <center>
-            <h1 style="font-size: 36px;">Heading Should be Here</h1>
-            <p style="font-size: 18px; font-weight: 300">kappers asdgbhk hasbd ghaskd</p>
+            {{-- <img src="/2.jpg" alt="ThuisImage" class="logo-img"> --}}
+            <h1 style="font-size: 36px;">Thuisschoonmeester</h1>
+            <p style="font-size: 18px; font-weight: 300">Pictures of my work</p>
         </center>
         <div class="swiper-container swiper-full-mobile">
             <div class="swiper-wrapper">

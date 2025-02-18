@@ -9,8 +9,8 @@
     <div id="header">
     <div class="logo">
         <a href="/">
-            <!-- <img src="/2.jpg" alt="ThuisImage" class="logo-img"> -->
-            Thuis schoon meester
+            {{-- <img src="/2.jpg" alt="ThuisImage" class="logo-img"> --}}
+            Thuisschoonmeester
         </a>
     </div>
     <nav>

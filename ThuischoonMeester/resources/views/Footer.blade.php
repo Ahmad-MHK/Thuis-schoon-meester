@@ -20,14 +20,13 @@
         </a>
       </div>
     </div>
-    
+
     <div class="footer-contact">
        <h3><a href="">Contact</a></h3>
-       <p><a href="mailto:fake@fake.com">fake@fake.com</a></p>
-       <p><a href="tel:1234567890">123-456-7890</a></p>
-       <p><a href="">123 Fake St<br />Fake, PA 11111</a></p>
+       <p><a href="mailto:arefshawish2004@gmail.com">arefshawish2004@gmail.com</a></p>
+       <p><a href="tel:0641873188">0641873188</a></p>
     </div>
-    
+
     <div class="footer-navigation">
       <div class="footer-links-holder">
         <h3><a href="">Section 1</a></h3>
@@ -58,7 +57,7 @@
       </div>
     </div>
   </div>
-  
+
   <div class="bottom-bar">
       Made by Ahmad Mahouk | <a href="">Privacy Policy</a> | <a href="">Terms of Service</a>
   </div>
